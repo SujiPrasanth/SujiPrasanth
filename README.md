@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey, I'm Suji Prasanth
 
-<!--
-**SujiPrasanth/SujiPrasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science student passionate about building responsive web applications and intuitive user interfaces.  
+💡 I enjoy creating real-world projects using modern front-end technologies and also explore Data Science to enhance my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Skills & Tools
+
+- 💻 Programming: Python, Java, JavaScript
+- 📊 Data:  MySQL, Pandas, NumPy, Matplotlib
+- 🌐 Web Dev: HTML, CSS, JavaScript, Bootstrap Basic
+- ⚙️ Tools: Git, GitHub, VS Code, Jupyter Notebook, Colab
+
+---
+
+## 📈 Current Focus
+
+- 🎨 Front-End Web Development & UI/UX Design 
+- 📊 Exploring data-driven solutions through Data Science
+- 🔬 Portfolio Website built with HTML/CSS/JS
+
+---
+
+## 📦 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 campus-recruitment-management-system | A web-based Campus Recruitment Portal | HTML, CSS, JS, MySQL, Php|
+
+---
+
+## 📜 Certifications
+
+- ✅ Python for Everybody – Coursera
+- ✅ Diploma in Cloud Computing - NCVRT
+
+---
+
+## 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suji-prasanth)
+- ✉︎ sujiprasantharumugam@email.com
+
+---
+
+*✨ I believe in continuous learning and building things that matter.*
+
